@@ -16,7 +16,7 @@ class Propietario : Persona{
 		}
 	void mostrar(){
 		cout<<"________________"<<endl;
-		cout<<nit<<","<<nombres<<","<<apellidos<<","<<direccion<<","<<nacimiento<<","<<telefono<<","<<endl;
+		cout<<nit<<","<<nombres<<","<<apellidos<<","<<direccion<<","<<nacimiento<<","<<telefono<<","<<nit<<","<<cui<<","<<endl;
 	}	
 	
 };
